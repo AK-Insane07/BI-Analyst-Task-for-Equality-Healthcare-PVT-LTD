@@ -31,3 +31,5 @@ b)	Shows geographic sales performance, aiding in regional strategy planning.
 # Conclusion:
 This BI dashboard provides a comprehensive view of revenue trends, customer behavior, and product performance. The interactive filters allow stakeholders to explore specific insights and optimize business strategies based on data-driven decisions.
 
+Link: https://app.powerbi.com/view?r=eyJrIjoiYjEzZDBmNjItODRmZC00ODYwLTg0NjEtNmMyYWUxZGQ1Njg1IiwidCI6IjRhNzhmOWQwLWFiZGUtNDBjNC1hMDg4LTBiOTg5NTk5M2M0YSJ9
+
